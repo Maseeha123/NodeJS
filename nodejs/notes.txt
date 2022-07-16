@@ -1,0 +1,6 @@
+ module importing
+to import a module we need to write const a  = require('')
+to import a module we need to write const a  = require('fs')
+to import a specific feature/method from the fs just 
+we need to write  require('fs).writeFileSync;
+

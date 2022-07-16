@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maseeha123/NodeJS.git"
+  },
+  "keywords": [
+    "learner"
+  ],
+  "author": "Maseeha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maseeha123/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Maseeha123/NodeJS#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
