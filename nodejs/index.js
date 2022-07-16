@@ -7,5 +7,6 @@ console.log('recently added 2:5 pm ')
 console.log('pull request example')
 console.log('fetching example')
 console.log('newly added a changes-1 ')
+console.log('newly added')
 
 
